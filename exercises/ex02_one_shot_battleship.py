@@ -1,6 +1,6 @@
 """EX02 - One Shot Battleship."""
 
-__author__: "730563209"
+__author__ = "730563209"
 
 grid = 4
 secret_row = 3
